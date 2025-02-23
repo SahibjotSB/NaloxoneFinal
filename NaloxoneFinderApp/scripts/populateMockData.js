@@ -3,11 +3,11 @@ import { getFirestore, collection, addDoc } from 'firebase/firestore';
 
 const firebaseConfig = {
   apiKey: '🫡',
-  authDomain: 'naloxonefinder-2067f.firebaseapp.com',
-  projectId: 'naloxonefinder-2067f',
-  storageBucket: 'naloxonefinder-2067f.firebasestorage.app',
-  messagingSenderId: '59850262489',
-  appId: '1:59850262489:android:3b7c273b025efb12ca3bc8',
+  authDomain: '',
+  projectId: '',
+  storageBucket: '',
+  messagingSenderId: '',
+  appId: '',
 };
 
 const app = initializeApp(firebaseConfig);
