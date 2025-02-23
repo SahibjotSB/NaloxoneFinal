@@ -2,7 +2,7 @@ import { initializeApp } from 'firebase/app';
 import { getFirestore, collection, addDoc } from 'firebase/firestore';
 
 const firebaseConfig = {
-  apiKey: 'AIzaSyAiKog0vSAQUmwxw7nXhZmZ89C4_lhugIo',
+  apiKey: '🫡',
   authDomain: 'naloxonefinder-2067f.firebaseapp.com',
   projectId: 'naloxonefinder-2067f',
   storageBucket: 'naloxonefinder-2067f.firebasestorage.app',
