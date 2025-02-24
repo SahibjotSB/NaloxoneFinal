@@ -1,6 +1,9 @@
 # NaloxNow - Hack Canada 2025 Winning Project
 
 NaloxNow is a mobile app that provides real-time aid during opioid emergencies by tracking naloxone kits, automating emergency workflows, and offering AI-powered overdose assistance.
+<p align="center">
+  <img src="pic_stage.png" alt="Naloxone Final" width="750">
+</p>
 
 ## Features
 
@@ -12,12 +15,17 @@ NaloxNow is a mobile app that provides real-time aid during opioid emergencies b
 
 ## Tech Stack
 
-- React Native
-- Google APIs (Maps \& Vision)
-- Firebase (Functions \& Database)
-- Gemini API
-- Orkes Constructor
+![React Native](https://img.shields.io/badge/React_Native-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
 
+![Google Maps](https://img.shields.io/badge/Google_Maps-4285F4?style=for-the-badge&logo=google-maps&logoColor=white)
+
+![Google Vision](https://img.shields.io/badge/Google_Vision-4285F4?style=for-the-badge&logo=google&logoColor=white)
+
+![Firebase](https://img.shields.io/badge/Firebase-FFCA28?style=for-the-badge&logo=firebase&logoColor=black)
+
+![Gemini](https://img.shields.io/badge/Gemini-0F9D58?style=for-the-badge&logo=gemini&logoColor=white)
+
+![Orkes](https://img.shields.io/badge/Orkes-000000?style=for-the-badge&logo=orkes&logoColor=white)
 
 ## Getting Started
 
@@ -59,22 +67,4 @@ npm run reset-project
 ```
 
 
-## Learn More
-
-- [Expo Documentation](https://docs.expo.dev/)
-- [Expo Tutorial](https://docs.expo.dev/tutorial/introduction/)
-
-
-## Community
-
-- [Expo GitHub](https://github.com/expo/expo)
-- [Expo Discord](https://discord.com/invite/expo)
-
----
-
 Developed with ❤️ during Hack Canada 2025!
-
---------------------------------------------------
-
-When you paste this into your README.md file on GitHub, the Markdown formatting will render the headings, bold text, and code blocks as shown above. Enjoy!
-
